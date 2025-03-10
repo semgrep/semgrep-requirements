@@ -1,0 +1,30 @@
+File: semgrep-grammars/src/tree-sitter-requirements/LICENSE
+Git repo name: tree-sitter-requirements
+Latest commit in repo: 728910099ddea7f1f94ea95a35a70d1ea76a1639
+Last change in file:
+  commit 5bd93f5534cb53b29dbaf9a8598a51f272b15d9d
+  Author: ObserverOfTime <chronobserver@disroot.org>
+  Date:   Mon Jul 24 12:32:54 2023 +0300
+  
+      Initial commit
+---
+File: semgrep-grammars/src/tree-sitter-requirements/grammar.js
+Git repo name: tree-sitter-requirements
+Latest commit in repo: 728910099ddea7f1f94ea95a35a70d1ea76a1639
+Last change in file:
+  commit 360c6a6b31076a482663806f7a8241de9cad6b4e
+  Author: ObserverOfTime <chronobserver@disroot.org>
+  Date:   Mon May 20 14:03:46 2024 +0300
+  
+      feat!: update bindings & regenerate
+---
+File: semgrep-grammars/src/semgrep-requirements/grammar.js
+Git repo name: ocaml-tree-sitter-semgrep
+Latest commit in repo: b8f0ac77872df001ff6314f7e21675ff9b5d3e62
+Last change in file:
+  commit b8f0ac77872df001ff6314f7e21675ff9b5d3e62
+  Author: brandonspark <wu.brandonj@gmail.com>
+  Date:   Mon Mar 10 14:47:40 2025 -0700
+  
+      add requirements lang
+---
