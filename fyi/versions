@@ -2,29 +2,41 @@ File: semgrep-grammars/src/tree-sitter-requirements/LICENSE
 Git repo name: tree-sitter-requirements
 Latest commit in repo: 728910099ddea7f1f94ea95a35a70d1ea76a1639
 Last change in file:
-  commit 5bd93f5534cb53b29dbaf9a8598a51f272b15d9d
-  Author: ObserverOfTime <chronobserver@disroot.org>
-  Date:   Mon Jul 24 12:32:54 2023 +0300
+  commit 728910099ddea7f1f94ea95a35a70d1ea76a1639
+  Author: Gabriel Linder <linder.gabriel@gmail.com>
+  Date:   Mon Mar 3 10:39:43 2025 +0100
   
-      Initial commit
+      docs: mark zed as supported
+      
+      Extension repo: https://github.com/dargor/zed-python-requirements
+      
+      Signed-off-by: Gabriel Linder <linder.gabriel@gmail.com>
 ---
 File: semgrep-grammars/src/tree-sitter-requirements/grammar.js
 Git repo name: tree-sitter-requirements
 Latest commit in repo: 728910099ddea7f1f94ea95a35a70d1ea76a1639
 Last change in file:
-  commit 360c6a6b31076a482663806f7a8241de9cad6b4e
-  Author: ObserverOfTime <chronobserver@disroot.org>
-  Date:   Mon May 20 14:03:46 2024 +0300
+  commit 728910099ddea7f1f94ea95a35a70d1ea76a1639
+  Author: Gabriel Linder <linder.gabriel@gmail.com>
+  Date:   Mon Mar 3 10:39:43 2025 +0100
   
-      feat!: update bindings & regenerate
+      docs: mark zed as supported
+      
+      Extension repo: https://github.com/dargor/zed-python-requirements
+      
+      Signed-off-by: Gabriel Linder <linder.gabriel@gmail.com>
 ---
 File: semgrep-grammars/src/semgrep-requirements/grammar.js
 Git repo name: ocaml-tree-sitter-semgrep
-Latest commit in repo: b8f0ac77872df001ff6314f7e21675ff9b5d3e62
+Latest commit in repo: dea26c1d0d5b007958b27d072c544f642af0af43
 Last change in file:
-  commit b8f0ac77872df001ff6314f7e21675ff9b5d3e62
-  Author: brandonspark <wu.brandonj@gmail.com>
-  Date:   Mon Mar 10 14:47:40 2025 -0700
+  commit 70d852c222150bd23556b46463f9a5fe77f07cc0
+  Author: Brandon Wu <49291449+brandonspark@users.noreply.github.com>
+  Date:   Tue Mar 11 10:30:30 2025 -0700
   
-      add requirements lang
+      feat: add `requirements.txt` lang (#526)
+      
+      * add requirements lang
+      
+      * add to makefile
 ---
