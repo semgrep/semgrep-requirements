@@ -2,7 +2,7 @@
 (include_subdirs qualified)
 
 (library
-  (public_name tree-sitter-lang.requirements)
+  (public_name tree-sitter-lang-pro.requirements)
   (name tree_sitter_requirements)
   (libraries atdgen-runtime tree-sitter.run)
 
